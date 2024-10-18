@@ -403,15 +403,15 @@ export default function LandingPage() {
             </div>
           </div>
 
-          {/* Block 2 (modified with iframe) */}
-          {/*<div className="flex flex-col items-center mb-36">
+          {* Block 2 (modified with iframe) */}
+          {*<div className="flex flex-col items-center mb-36">
             <div className="flex flex-col items-center">
               <p className="text-white text-2xl font-bold mb-8">
                 لشــراء عملة AX ، يمكنك استخدام المنصة اللامركزية Stonfi من خلال النافذة ادناه
               </p>
               <div className="w-full max-w-[600px] min-w-[300px]">
                 <iframe
-                  src="https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=EQD61XZ5b6JGiFK4LIuuGK9ZXTJCSdBgeKEn6xbqReDBQUFL"
+                  src="https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=EQCHtLuEy6Oh2mLclUwC9yoHn2dWuvMYjyRaqt3EgP_jX_xN"
                   height="660"
                   width="100%"
                   style={{
@@ -423,7 +423,7 @@ export default function LandingPage() {
                 />
               </div>
             </div>
-          </div>*/}
+          </div>*}
 
           <div className="mb-36">
             <LanguageSelector />
