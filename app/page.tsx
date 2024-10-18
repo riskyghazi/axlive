@@ -403,8 +403,8 @@ export default function LandingPage() {
             </div>
           </div>
 
-          {* Block 2 (modified with iframe) */}
-          {*<div className="flex flex-col items-center mb-36">
+          {/* Block 2 (modified with iframe) */}
+          <div className="flex flex-col items-center mb-36">
             <div className="flex flex-col items-center">
               <p className="text-white text-2xl font-bold mb-8">
                 لشــراء عملة AX ، يمكنك استخدام المنصة اللامركزية Stonfi من خلال النافذة ادناه
@@ -423,7 +423,7 @@ export default function LandingPage() {
                 />
               </div>
             </div>
-          </div>*}
+          </div>
 
           <div className="mb-36">
             <LanguageSelector />
